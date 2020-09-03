@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="500" height="350" src="logo.png" alt="GermanLiveCoders Logo">
+	<img width="500" height="350" src="german_live_devs.png" alt="GermanLiveCoders Logo">
 	<br>
 	<br>
 </div>
